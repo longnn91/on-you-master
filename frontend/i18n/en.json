@@ -1,0 +1,10 @@
+{
+  "price": "Price",
+  "download": "Download",
+  "about_us": "About Us",
+  "profile": "Profile",
+  "product": "Product",
+  "logout": "LOGOUT",
+  "login": "LOGIN",
+  "register": "REGISTER"
+}
